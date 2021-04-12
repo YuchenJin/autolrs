@@ -34,7 +34,7 @@ $ bash run.sh
 ```
 
 ## Contact 
-+ [Yuchen Jin](https://homes.cs.washington.edu/~yuchenj)
++ [Yuchen Jin](http://yuchenjin.github.io/)
 
 You can contact us at <yuchenj@cs.washington.edu>. We would love to hear your questions and feedback!
 
